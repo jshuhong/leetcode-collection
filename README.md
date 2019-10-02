@@ -1,2 +1,2 @@
 # leetcode-collection
- personal code
+personal submits on leetcode.com
